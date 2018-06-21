@@ -59,7 +59,7 @@ Then post these data
     <th>Value</th>
     <th>Example</th>
     </thead>
-    <tr><td>kcld</td><td>Your Course And Your Course Index With A Space Between Them</td><td>999000000 01</td></tr>
+    <tr><td>kcld</td><td>Your Course And Your Course Index With A Underline Between Them</td><td>999000000_01</td></tr>
     <tr><td>proActionType</td><td>Do It As Example Do</td><td>5</td></tr>
     <tr><td>actionType</td><td>Do It As Example Do</td><td>9</td></tr>
     </table>
