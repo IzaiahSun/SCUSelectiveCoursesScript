@@ -4,7 +4,7 @@ IT IS JUST FOR SICHUAN UNIVERSITY.
 It is a brief illustration about how to just POST data to the server without browser the webpage to choose course.
 If you have any problem please contact me.
 
-**MY QQ NUMBER:617953936**
+**MY QQ NUMBER:617953936**</br>
 **MY EMAIL ADDRESS:sunyq9934@foxmail.com**
 
 ## Login
