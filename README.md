@@ -49,7 +49,7 @@ Firstly, post these data as URL parameters
     <tr><td>skxq</td><td>Keep It Empty</td><td></td></tr>
     <tr><td>skjc</td><td>Keep It Empty</td><td></td></tr>
     <tr><td>pageNumber</td><td>Do It As Example Do</td><td>-2</td></tr>
-    <tr><td>proActionType</td><td>Do It As Example Do</td><td>2</td></tr>
+    <tr><td>preActionType</td><td>Do It As Example Do</td><td>2</td></tr>
     <tr><td>actionType</td><td>Do It As Example Do</td><td>5</td></tr>
     </table>
 </html>
@@ -62,7 +62,7 @@ Then post these data as URL parameters
     <th>Example</th>
     </thead>
     <tr><td>kcld</td><td>Your Course And Your Course Index With A Underline Between Them</td><td>999000000_01</td></tr>
-    <tr><td>proActionType</td><td>Do It As Example Do</td><td>5</td></tr>
+    <tr><td>preActionType</td><td>Do It As Example Do</td><td>5</td></tr>
     <tr><td>actionType</td><td>Do It As Example Do</td><td>9</td></tr>
     </table>
 </html>
