@@ -33,7 +33,7 @@ POST the following data to this address to choose course
 
     http://202.115.47.141/xkAction.do
 
-Firstly, post these data
+Firstly, post these data as URL parameters
 <html>
     <table>
     <thead>
@@ -53,7 +53,7 @@ Firstly, post these data
     <tr><td>actionType</td><td>Do It As Example Do</td><td>5</td></tr>
     </table>
 </html>
-Then post these data
+Then post these data as URL parameters
 <html>
     <table>
     <thead>
